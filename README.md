@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... code
 - 💞️ I’m looking to ... develop my tech skills
 - 📫 How to reach me ... lennonmurphygray@gmail.com
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ... I have perfect pitch
 
 <!---
